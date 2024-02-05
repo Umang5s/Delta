@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+    color: blue;
+    border: solid black;
+    display: inline-block;
+}
+
+button{
+    display: block;
+}
+
+h1{
+    display: block;
+}

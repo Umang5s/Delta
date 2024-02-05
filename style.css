@@ -1,0 +1,31 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: #ffa511;
+    border-radius: 50%;
+
+}
+
+#mouth{
+   height: 75px;
+   width: 200px;
+   background-color: brown;
+   border-radius: 0 0 50px 50px;
+   position: absolute;
+   top: 250px;
+   left: 100px;
+}
+
+#left-eyes,#right-eyes{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    position: absolute;
+    left:100px;
+    top: 100px;
+    
+}
+
+#right-eyes{
+    left: 250px;
+}
